@@ -15,6 +15,8 @@ If driver is detected to yawn/close eyes more than a threshold times then an ala
 
 # To test our software :
 
+download shape predictor dat file
+
 Step 1:
 Run the Python script using command line 
 	Type python   sleep_detection.py --shape-predictor (path to shape_predictor_68_face_landmarks.dat file) 
