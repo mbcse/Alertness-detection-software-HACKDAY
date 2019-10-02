@@ -15,7 +15,7 @@ If driver is detected to yawn/close eyes more than a threshold times then an ala
 
 # To test our software :
 
-download shape predictor dat file
+NOTE: Download shape predictor dat file
 
 Step 1:
 Run the Python script using command line 
