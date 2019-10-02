@@ -6,6 +6,8 @@
 In the current scenario working is so tiring that we often fall asleep , but feeling sleeping  during driving can be very dangerous or might lead you  to major accident. So to avoid such hazardous accidents we thought that savilian cameras or IOT  device should be their in cars with our software inbuilt which will help drivers to stay awake or reach home safely
 This concept can be extended like in corporate meeting , cctv cameras .
 Last but not the least it could also be used in schools to check it a student is sleeping or not. 
+
+# About our software
 Our software detects if the driver is yawning or his/her eyes are closing 
 If driver is detected to yawn/close eyes more than a threshold times then an alarm is activated 
 
